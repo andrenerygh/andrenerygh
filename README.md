@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=André%20Nery&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+formação;Python+%7C+Flask+%7C+FastAPI+%7C+Jinja2;Transformando+ideias+em+código" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+formação;17+anos;Esutante+SESI/SENAI-SP;Desenvolvedor+em:+%7C+Python+%7C+Flask+%7C+FastAPI+%7C+JavaScript+%7C+Jinja2+%7C+HTML;Transformando+ideias+em+código" />
 
 <br><br>
 
